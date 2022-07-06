@@ -24,10 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tech Expert Academy
-email: ogueritracy@gmail.com 
+title: Tracy ivy     
+email: ogueritracy@gmail.com
 author: Tracy-ivy
-
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
 # * current year: {currentYear}
@@ -38,24 +37,21 @@ author: Tracy-ivy
 #
 # For example:
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
-#   "Copyright © 2017-2021 Foobar"
+#   "Copyright © 2017-2022 Foobar"
 #
 copyright: "Unpublished Work (cleft) 2022-{currentYear} {author}"
 
-description: >-we offer high quality courses that helps you become a tech professional in record time.we also helo you to find a job at a great company. you only pay tuition once you are hiried # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >-this means to ingorn newline until"basturts"                                   .
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
-# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
-yat:
-  date_format: "%b %d, %Y"
 
+  "# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+yat:
+date_format: "%b %d, %Y
 # If you want more debug log, you can set true
 # debug: false
 
